@@ -1,0 +1,4 @@
+akshat.admin@example.com | Admin@123
+meera.manager@example.com | Manager@123
+newemail@example.com | NewPass@123
+ravi.manager@example.com | Manager@456
